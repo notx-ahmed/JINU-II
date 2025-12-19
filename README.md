@@ -1,7 +1,7 @@
 
-## 🤖 JINU-II WhatsApp Bot
+## 🤖 NOTx AHMED-II WhatsApp Bot
 
-JINU-II is a multi-device WhatsApp bot built using the Baileys library. Created by  Davison Gladson, it empowers group admins with automation, moderation, and interactive tools to keep WhatsApp communities buzzing.
+NOTx AHMED-II is a multi-device WhatsApp bot built using the Baileys library. Created by  Davison Gladson, it empowers group admins with automation, moderation, and interactive tools to keep WhatsApp communities buzzing.
 
 <div align="center">
   <!-- First Typing SVG with updated font -->
@@ -80,7 +80,7 @@ Deploy your bot using the KataBump hosting panel:
 Stay updated and connect with other users:
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VbAhyS28aKvMWmEiHt1M">
+  <a href="https://whatsapp.com/channel/0029Vb5faX5ADTOILyh8B83A">
     <img src="https://img.shields.io/badge/Join%20WhatsApp%20Channel-Gladdy%20Tech-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel"/>
   </a>
 </div>
